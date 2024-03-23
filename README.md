@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 ### Hi there 👋
 
 
@@ -18,6 +19,8 @@
 ![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kook-s)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <!--
 **Kook-s/Kook-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
