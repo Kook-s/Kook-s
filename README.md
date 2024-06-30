@@ -1,9 +1,9 @@
 <h3 align="center">Hi Hello I'm Kooks🌱</h3>
 <hr>
 Project 
-- 그룹웨어 : EveryWare
-- 100인의 AI : 변명 생성 AI
-- AI 공모전 : 퍼스널 컬러 진단 AI
+- 그룹웨어 : EveryWare <br>
+- 100인의 AI : 변명 생성 AI <br>
+- AI 공모전 : 퍼스널 컬러 진단 AI <br>
 
 <h3 align="center">🖥️ Tech Stack ⌨️</h3>
 <p align="center">
