@@ -8,7 +8,7 @@
   - **Email** : *kooks1126@naver.com.com*
   - **LinkedIn** : 
   - **Study** : 
-  - **Blog** :
+  - **Blog** : *https://dagwon.tistory.com/*
  
 ## **🤝 Project**
 - **그룹웨어: EveryWare - 최우수상**
@@ -43,13 +43,14 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
+<!--
 ## **🛠️ Study Stacks**  
 <p align="center">
-<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/> -->
-</p>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/> 
+</p>-->
 
 ## **🖥️  Design Stacks**  
 <p align="center">
