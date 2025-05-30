@@ -6,9 +6,10 @@
 - **Nickname** : *Kooks*
 - **Contacts**
   - **Email** : *kooks1126@naver.com.com*
+  - **Blog** : *https://dagwon.tistory.com/*
 <!--  - **LinkedIn** : -->
   <!--- **Study** : -->
-  - **Blog** : *https://dagwon.tistory.com/*
+  
  
 ## **🤝 Project**
 - **그룹웨어: EveryWare - 최우수상**
