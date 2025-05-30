@@ -6,8 +6,8 @@
 - **Nickname** : *Kooks*
 - **Contacts**
   - **Email** : *kooks1126@naver.com.com*
-  - **LinkedIn** : 
-  - **Study** : 
+<!--  - **LinkedIn** : -->
+  <!--- **Study** : -->
   - **Blog** : *https://dagwon.tistory.com/*
  
 ## **🤝 Project**
