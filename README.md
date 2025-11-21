@@ -2,7 +2,7 @@
 <div align='center'> <h1><strong><i>Hi Hello I'm Kooks🌱</i></strong></h1></div>
 
 
-- **Name** : 신국현 (Shin Gukhyeon)
+- **Name** : 신국현 (Shin GukHyeon)
 - **Nickname** : *Kooks*
 - **Contacts**
   - **Email** : *best1126sin@gmail.com*
