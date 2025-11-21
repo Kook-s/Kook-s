@@ -5,8 +5,8 @@
 - **Name** : 신국현 (Shin Gukhyeon)
 - **Nickname** : *Kooks*
 - **Contacts**
-  - **Email** : *kooks1126@naver.com.com*
-  - **Blog** : *https://dagwon.tistory.com/*
+  - **Email** : *best1126sin@gmail.com*
+  - **Blog** : *https://velog.io/@kooks-dev*
 <!--  - **LinkedIn** : -->
   <!--- **Study** : -->
   
