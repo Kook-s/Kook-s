@@ -1,14 +1,41 @@
 
-<div align='center'> <h1><strong><i>Hi Hello I'm Kooks🌱</i></strong></h1></div>
+<div align='center'> <h1><i>Hi Hello I'm Kooks🌱</i></h1></div>
 
 
 - **Name** : 신국현 (Shin GukHyeon)
 - **Nickname** : *Kooks*
-- **Contacts**
-  - **Email** : *best1126sin@gmail.com*
-  - **Blog** : *https://velog.io/@kooks-dev*
-<!--  - **LinkedIn** : -->
-  <!--- **Study** : -->
+
+
+## 📢 Open Source Contributor
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Project</th>
+      <th>Issue</th>
+      <th>PR</th>
+      <th>PR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025-11-21</td>
+      <td>
+        <a href="https://gravitino.apache.org/">Gravitino</a>
+      </td>
+      <td>
+        <a href="https://github.com/apache/gravitino/issues/9075">#9075</a>
+      </td>
+      <td>
+        <a href="https://github.com/apache/gravitino/pull/9203">#9203</a>
+      </td>
+      <td>
+        fix CLI jar selection when multiple CLI jars exist (issue #9075)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
   
   
 ## 🛠️ Skill
